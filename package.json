@@ -1,0 +1,14 @@
+{
+  "name": "testem-reload-failure",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "test": "testem test"
+  },
+  "repository": "https://github.com/rjackson/testem-reload-failure",
+  "author": "Robert Jackson",
+  "license": "MIT",
+  "devDependencies": {
+    "testem": "~0.6.15"
+  }
+}
